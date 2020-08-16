@@ -102,7 +102,7 @@ nav.header > a:not(.navlogo) {
 }
 
 .decalthumb {
-    transition: all 0.5s ease;
+    transition: all 0.7s ease;
     flex: 1;
     text-align: center;
     background-color: #023c6b;
@@ -110,7 +110,6 @@ nav.header > a:not(.navlogo) {
 
 .decalthumb:hover {
     background-color: darkgoldenrod;
-    color: #023c6b;
 }
 
 .centered {
