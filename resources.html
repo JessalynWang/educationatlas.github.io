@@ -22,15 +22,112 @@
         <a href="contact.html">Contact</a>
     </nav>
 
-    <div class="container" style="padding: 100px; text-align: center">
-        <nav class="resourcenav">
-            <a href="index.html" id="ment">Mentoring</a>
-            <a href="about.html">Live Events</a>
-            <a href="resources.html">Internships</a>
-            <a href="contact.html">Scholarships</a>
-            <a href="contact.html" id="exinfo">External Info</a>
+    <div class="container" style="padding: 100px;">
+        <nav class="resourcenav" style="text-align: center">
+            <a href="#mntrng" id="ment">Mentoring</a>
+            <a href="about.html" id="wrk">Workshops</a>
+            <a href="resources.html" id="intrn">Internships</a>
+            <a href="contact.html" id="schlr">Scholarships</a>
+            <a href="contact.html" id="exinfo">Programs</a>
         </nav>
+        <div class="rtxtbox" style="text-align: center">
+            <h1>Overview</h1>
+            <hr class="gold" />
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod nec ligula a tincidunt. Maecenas faucibus a risus sagittis dignissim. Sed quis porta est, vel venenatis tortor. Ut viverra lorem metus, sed gravida risus convallis nec. Pellentesque ornare est vitae felis mattis scelerisque. Etiam non ullamcorper eros, eget vestibulum felis. Sed tincidunt rutrum eros in ultricies.</p>
+        </div>
+        <span id="mntrng"></span>
+        <div class="rtxtbox">
+            <h1>Mentoring</h1>
+            <hr class="gold" />
+            <p>Looking for advice on which colleges to apply to? Having some trouble taking standardized tests? Need a fresh set of eyes to critique an essay? Want a fellow student’s help in drafting a course plan? Our mentoring program aims to connect high school students with college student mentors who will assist them in aspects such as the college application process, choosing courses, and resume building. All mentoring is free and hours are flexible to your schedule!</p>
+        </div>
+        <span id="wrkshps"></span>
+        <div class="rtxtbox">
+            <h1>Workshops</h1>
+            <hr class="gold" />
+            <p>Live events will be coming soon. We will be having workshops on topics such as soft skill building, and networking!</p>
+        </div>
+        <span id="intrnshps"></span>
+        <div class="rtxtbox">
+            <h1>Internships</h1>
+            <hr class="gold" />
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod nec ligula a tincidunt. Maecenas faucibus a risus sagittis dignissim. Sed quis porta est, vel venenatis tortor. Ut viverra lorem metus, sed gravida risus convallis nec. Pellentesque ornare est vitae felis mattis scelerisque. Etiam non ullamcorper eros, eget vestibulum felis. Sed tincidunt rutrum eros in ultricies.</p>
+        </div>
+        <span id="schlrshps"></span>
+        <div class="rtxtbox">
+            <h1>Scholarships</h1>
+            <hr class="gold" />
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod nec ligula a tincidunt. Maecenas faucibus a risus sagittis dignissim. Sed quis porta est, vel venenatis tortor. Ut viverra lorem metus, sed gravida risus convallis nec. Pellentesque ornare est vitae felis mattis scelerisque. Etiam non ullamcorper eros, eget vestibulum felis. Sed tincidunt rutrum eros in ultricies.</p>
+        </div>
+        <span id="smmrprgs"></span>
+        <div class="rtxtbox">
+            <h1>Summer Programs</h1>
+            <hr class="gold" />
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod nec ligula a tincidunt. Maecenas faucibus a risus sagittis dignissim. Sed quis porta est, vel venenatis tortor. Ut viverra lorem metus, sed gravida risus convallis nec. Pellentesque ornare est vitae felis mattis scelerisque. Etiam non ullamcorper eros, eget vestibulum felis. Sed tincidunt rutrum eros in ultricies.</p>
+        </div>
     </div>
 
 </body>
 </html>
+
+<script>
+    $("#ment").on('click', function (event) {
+        event.preventDefault();
+
+        setTimeout(
+            function () {
+                var element = document.getElementById("mntrng");
+
+                element.scrollIntoView({ behavior: "smooth" });
+            }
+            , 300);
+    });
+
+    $("#wrk").on('click', function (event) {
+        event.preventDefault();
+
+        setTimeout(
+            function () {
+                var element = document.getElementById("wrkshps");
+
+                element.scrollIntoView({ behavior: "smooth" });
+            }
+            , 300);
+    });
+
+    $("#intrn").on('click', function (event) {
+        event.preventDefault();
+
+        setTimeout(
+            function () {
+                var element = document.getElementById("intrnshps");
+
+                element.scrollIntoView({ behavior: "smooth" });
+            }
+            , 300);
+    });
+
+    $("#schlr").on('click', function (event) {
+        event.preventDefault();
+
+        setTimeout(
+            function () {
+                var element = document.getElementById("schlrshps");
+
+                element.scrollIntoView({ behavior: "smooth" });
+            }
+            , 300);
+    });
+
+    $("#exinfo").on('click', function (event) {
+        event.preventDefault();
+
+        setTimeout(
+            function () {
+                var element = document.getElementById("smmrprgs");
+
+                element.scrollIntoView({ behavior: "smooth" });
+            }
+            , 300);
+    });
+</script>

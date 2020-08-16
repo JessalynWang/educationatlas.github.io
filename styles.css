@@ -223,3 +223,21 @@ nav.header > a:not(.navlogo) {
 .hiddenB:hover {
     color: darkgoldenrod;
 }
+
+.gold {
+    background-color: darkgoldenrod;
+    height: 1px;
+}
+
+.rtxtbox {
+    min-height: 100px;
+    border: 2px solid darkgoldenrod;
+    border-radius: 5px;
+    margin-top: 50px;
+    padding: 30px;
+    transition: all 0.6s ease;
+}
+
+.rtxtbox:hover {
+    background-color: #f7ecd1;
+}
