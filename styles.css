@@ -241,3 +241,8 @@ nav.header > a:not(.navlogo) {
 .rtxtbox:hover {
     background-color: #f7ecd1;
 }
+
+.unstylink, .unstylink:hover {
+    color: #023c6b;
+    text-decoration: none;
+}
