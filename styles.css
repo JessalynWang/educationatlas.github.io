@@ -246,3 +246,7 @@ nav.header > a:not(.navlogo) {
     color: #023c6b;
     text-decoration: none;
 }
+
+.unstyled, .unstyled:hover {
+    color: white;
+}
