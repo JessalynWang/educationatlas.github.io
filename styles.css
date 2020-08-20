@@ -7,8 +7,20 @@
     -ms-overflow-style: none;
 }
 
-*::-webkit-scrollbar {
+::-webkit-scrollbar {
+    width: 15px;
+}
+
+::-webkit-scrollbar-track {
     display: none;
+}
+
+::-webkit-scrollbar-thumb {
+    background: rgba(2, 60, 107, 0.80);
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #011e35;
 }
 
 body {
@@ -132,7 +144,7 @@ nav.header > a:not(.navlogo) {
     }
 }
 
-.fa {
+.facontact {
     padding: 20px;
     font-size: 30px;
     width: 55px;
@@ -146,6 +158,10 @@ nav.header > a:not(.navlogo) {
     opacity: 0.7;
     color: #023c6b;
     background-color: darkgoldenrod;
+    text-decoration: none;
+}
+
+.fab:hover, .fas:hover {
     text-decoration: none;
 }
 
