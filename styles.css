@@ -53,18 +53,38 @@ a.navlogo:hover {
     text-decoration: none;
 }
 
-nav.header > a {
+nav.header > a, .dropdown-toggle {
     color: white;
     text-decoration: none;
 }
 
-nav.header > a:not(.navlogo):hover {
+.dropdown-toggle:hover {
+    color: white;
+    text-decoration: none;
+}
+
+nav.header > a:not(.navlogo):hover, .dropdown:hover {
     background-color: darkgoldenrod;
     color: white;
     text-decoration: none;
 }
 
-nav.header > a:not(.navlogo) {
+.dropdown-menu {
+    padding: 0px;
+}
+
+.dropdown-item {
+    padding: 5px;
+    background-color: #023c6b;
+    color: white;
+}
+
+.dropdown-item:hover {
+    background-color: darkgoldenrod;
+    color: white;
+}
+
+nav.header > a:not(.navlogo), .dropdown {
     padding: 1%;
     flex: 1;
     text-align: center;
