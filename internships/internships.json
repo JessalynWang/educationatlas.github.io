@@ -62,7 +62,7 @@
 
   {
     "name": "<h2>Eugene and Ruth Roberts Summer Student Academy - <a href='https://www.cityofhope.org/education/irell-and-manella-graduate-school-of-biological-sciences/irell-manella-graduate-school-programs/summer-student-academy' target='_blank'>Apply here</a></h2>",
-    "summary": "<p>The Eugene and Ruth Roberts Summer Student Academy at City of Hope allows high school and undergraduate college students to have “hands on” research experience, allowing students to design and work on research projects in their fields of interest. City of Hope faculty act as mentors, and students work closely with post-docs, grad students, and lab personnel from the Irell & Manella Graduate School Of Biological Sciences</p>",
+    "summary": "<p>The Eugene and Ruth Roberts Summer Student Academy at City of Hope allows high school and undergraduate college students to have 'hands on' research experience, allowing students to design and work on research projects in their fields of interest. City of Hope faculty act as mentors, and students work closely with post-docs, grad students, and lab personnel from the Irell & Manella Graduate School Of Biological Sciences</p>",
     "eligibility": [
       "<li>Ability to work in New York City, Los Angeles, or Washington D.C.</li>",
       "<li>Juniors and senior students currently enrolled in a 4-year university</li>",
@@ -90,24 +90,43 @@
       "<li>Minimum 3.0 cumulative GPA</li>"
     ],
     "components": [
-      "<li>Currently unknown</li>"
+      "<li>Transcript</li>",
+      "<li>Letter of recommendation</li>",
+      "<li>Short answer questions</li>",
+      "<li>Listing of work/volunteer experience</li>"
     ],
     "deadlines": [
-      "<li>Fall applications open: June 1 - June 30</li>",
-      "<li>Spring applications open: Oct.1 - Oct. 31</li>",
-      "<li>Summer applications open: Jan. 2 - Feb. 28</li>"
+      "<li>Spring 2021: November 1</li>",
+      "<li>Summer 2021: March 8</li>"
     ]
   },
 
   {
-    "name": "<h2>CBS News Internship - <a href='https://www.cbsnews.com/news/cbs-news-internship-program/' target='_blank'>Apply here</a></h2>",
-    "summary": "<p>The CBS News Internship Program is a paid internship which gives college students the opportunity to further their interest in broadcasting and journalism in various New York City, Los Angeles, and Washington D.C. CBS departments, including but not limited to CBS Evening News, 60 Minutes, 48 Hours, and CBS Sunday Morning. Interns are expected to learn fundamental news-gathering and on-air skills, assist with reporters and producers, and perform all production-related tasks and elements. </p>",
+    "name": "<h2>Cedar-Sinai Minors in Research Program - <a href='https://www.cedars-sinai.org/education/professional-training-programs/internship/minors.html?_ga=2.160060728.465703239.1597968786-321095429.1597968786' target='_blank'>Apply here</a></h2>",
+    "summary": "<p>The Minors in Research Program provides students of 16-18 years of age with an expansive look at bio-medical research that covers scientific project design, biomedical research techniques, research discussions and presentations, laboratory regulations, and principles of academic research.</p>",
     "eligibility": [
-      "<li>Ability to work in New York City, Los Angeles, or Washington D.C.</li>",
-      "<li>Juniors and senior students currently enrolled in a 4-year university</li>",
-      "<li>Full-time summer and 20 hours minimum fall/spring time commitment</li>",
-      "<li>Legal authorization to work in the United States </li>",
-      "<li>Passion for news, excellent written, verbal, and communications abilities, and comprehensive knowledge of current events</li>",
+      "<li>Be a current junior in high school</li>",
+      "<li>Age of 16-18 years</li>"
+    ],
+    "components": [
+      "<li>Cover Letter</li>",
+      "<li>High School Transcript</li>",
+      "<li>2 Letters of Recommendation</li>"
+    ],
+    "deadlines": [
+      "<li>TBA</li>"
+    ]
+  },
+
+  {
+    "name": "<h2>Department of Homeland Security Cybersecurity Internship Program - <a href='https://www.dhs.gov/homeland-security-careers/cybersecurity-internship-program-0' target='_blank'>Apply here</a></h2>",
+    "summary": "<p>The DHS is looking for individuals who show a desire to learn concepts such as identification and analysis of malicious code, forensics analysis, and more. Interns will have the opportunity to be selected into the bachelor's or master's-based Cyber Fellows Program within the DHS Secretary's Honors Program after graduation.</p>",
+    "eligibility": [
+      "<li>Must be a US Citizen</li>",
+      "<li>Be able to obtain and hold a security clearance</li>",
+      "<li>Enrolled in fields associated with Cybersecurity (Computer Science, Computer Engineering, Electrical Engineering, etc.) with a focus on Cybersecurity</li>",
+      "<li>Project leadership ability</li>",
+      "<li>Good oral and written communication skills</li>",
       "<li>Journalism, broadcasting, and communications majors students (preferred) </li>",
       "<li>3.0 GPA or above (recommended)"
     ],
@@ -115,31 +134,7 @@
       "<li>Currently unknown</li>"
     ],
     "deadlines": [
-      "<li>Fall applications open: June 1 - June 30</li>",
-      "<li>Spring applications open: Oct.1 - Oct. 31</li>",
-      "<li>Summer applications open: Jan. 2 - Feb. 28</li>"
+      "<li>TBA</li>"
     ]
-  },
-
-  {
-    "name": "<h2>CBS News Internship - <a href='https://www.cbsnews.com/news/cbs-news-internship-program/' target='_blank'>Apply here</a></h2>",
-    "summary": "<p>The CBS News Internship Program is a paid internship which gives college students the opportunity to further their interest in broadcasting and journalism in various New York City, Los Angeles, and Washington D.C. CBS departments, including but not limited to CBS Evening News, 60 Minutes, 48 Hours, and CBS Sunday Morning. Interns are expected to learn fundamental news-gathering and on-air skills, assist with reporters and producers, and perform all production-related tasks and elements. </p>",
-    "eligibility": [
-      "<li>Ability to work in New York City, Los Angeles, or Washington D.C.</li>",
-      "<li>Juniors and senior students currently enrolled in a 4-year university</li>",
-      "<li>Full-time summer and 20 hours minimum fall/spring time commitment</li>",
-      "<li>Legal authorization to work in the United States </li>",
-      "<li>Passion for news, excellent written, verbal, and communications abilities, and comprehensive knowledge of current events</li>",
-      "<li>Journalism, broadcasting, and communications majors students (preferred) </li>",
-      "<li>3.0 GPA or above (recommended)"
-    ],
-    "components": [
-      "<li>Currently unknown</li>"
-    ],
-    "deadlines": [
-      "<li>Fall applications open: June 1 - June 30</li>",
-      "<li>Spring applications open: Oct.1 - Oct. 31</li>",
-      "<li>Summer applications open: Jan. 2 - Feb. 28</li>"
-    ]
-  }
+  
 ]

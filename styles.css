@@ -294,4 +294,5 @@ nav.header > a:not(.navlogo), .dropdown {
     padding: 20px;
     border: 2px solid darkgoldenrod;
     border-radius: 5px;
+    margin-bottom: 15px;
 }
