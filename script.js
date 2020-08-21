@@ -7,7 +7,7 @@ function loadContent() {
         }
     };
     let name = location.search.substring(6);
-    xmlhttp.open("GET", "https://jessalynwang.github.io/educationatlas.github.io/internships/" + name + ".json", true);
+    xmlhttp.open("GET", "https://jessalynwang.github.io/educationatlas.github.io/info/" + name + ".json", true);
     xmlhttp.send();
 }
 

@@ -1,0 +1,131 @@
+[
+    {
+        "name": "<h2>QuestBridge Scholarship - <a href='https://www.questbridge.org/high-school-students/national-college-match' target='_blank'>Apply here</a></h2>",
+        "summary": "<p>The QuestBridge Scholarship allows high school seniors facing financial difficulties to apply at the United States’ top colleges and universities for free and be considered for early admission and a full four-year scholarship worth over $200,000 that covers tuition and fees, room and board, books and supplies, and travel expenses. Moreover, it allows students to elaborate on their unique stories as a student who excelled academically in high school despite financial hardship. </p>",
+        "eligibility": [
+            "<li>Must be a U.S. citizen and permanent resident OR student currently attending high school in the United States</li>",
+            "<li>Must graduate from high school during or before the summer of 2021 and plan to enroll as a freshman in college in the fall of 2021</li>",
+            "<li>Academic Recommendations: Primarily A’s in Honors, AP, and/or IB-level courses, top 5-10% of graduating class, SAT score >1280, ACT composite score >27</li>",
+            "<li>Average Financial Qualification: Households earning less than $65,000 annually for a typical family of four and minimal assets</li>"
+
+        ],
+        "components": [
+            "<li>A free, online National College Match application, including information on academic and extracurricular accomplishments, access to previous year tax returns and other financial documents, two essays, and short answer questions</li>",
+            "<li>Two letters of recommendation from teachers in core academic subjects</li>",
+            "<li>A School Report from a high school counselor</li>",
+            "<li>A School Profile (optional, but recommended)</li>",
+            "<li>A high school transcript and additional transcripts (unofficial transcripts are accepted)</li>",
+            "<li>Any available standardized (SAT, ACT, Subject Tests, IB, AP, or TOEFL) test score reports if taken; SAT and/or ACT test scores are highly recommended (unofficial test score reports are accepted)</li>"
+        ],
+        "deadlines": [
+            "<p>Application Deadline(s): </p>",
+            "<li>Sep. 29</li>"
+        ]
+    },
+
+
+    {
+        "name": "<h2>The Gates Scholarship - <a href='https://www.thegatesscholarship.org/scholarship' target='_blank'>Apply here</a></h2>",
+        "summary": "<p>The Gates Scholarship is awarded to 300 outstanding, minority, high school seniors from low-income households. Selected applicants receive full funding for the cost of attendance (including tuition, fees, room+board, books, transportation, and possibly other personal costs) not covered by other financial aid and the expected family contribution (determined by FAFSA or the university). </p>",
+        "eligibility": [
+            "<li>Must be a high school senior</li>",
+            "<li>From at least one: African American, American Indian/Alaska Native, Asian and Pacific Islander American, and/or Hispanic American</li>",
+            "<li>Pell-eligible</li>",
+            "<li>Must be a U.S. citizen, national, or permanent resident</li>",
+            "<li>In good academic standing (minimum cumulative weighted 3.3 gpa on 4.0 scale, or equivalent)</li>",
+            "<li>Must plan to enroll full-time in a four year degree program, in a US accredited, not-for-profit, private or public college or university</li>"
+        ],
+        "components": [
+            "<li>Currently Unknown</li>"
+        ],
+        "deadlines": [
+            "<p>Application Deadline(s): </p>",
+            "<li>Applications Open Between: July 15 - Sep. 15</li>"
+        ]
+    },
+
+    {
+        "name": "<h2>Bank of America Scholarship - <a href='https://worldscholarshipforum.com/bank-america-student-leaders-program/' target='_blank'>Apply here</a></h2>",
+        "summary": "<p>The Bank of America Scholarship is designed only for only U.S. high school students and aims to aid young people in developing leadership skills through community work experience. Students of the Bank of America Family are exempted from this program. </p>",
+        "eligibility": [
+            "<li>Have to currently be a high school junior or senior </li>",
+            "<li>Participate in a 8 week paid internship at a local nonprofit and work 35 hours a week</li>",
+            "<li>Be legally authorized to work in the United States</li>",
+            "<li>Participate in the Student Leaders Summit in Washington, DC</li>"
+        ],
+        "components": [
+            "<li>Complete online application</li>",
+            "<li>Letter of recommendation </li>"
+        ],
+        "deadlines": [
+            "<p>Application Deadline(s): </p>",
+            "<li>Applications Open Between: Nov. 4 - Jan. 31</li>"
+        ]
+    },
+
+    {
+        "name": "<h2>Amazon Future Engineer Program - <a href='https://learnmore.scholarsapply.org/amazonfutureengineer/' target='_blank'>Apply here</a></h2>",
+        "summary": "<p>The Amazon Future Engineer Scholarship Program is for high school seniors who have completed an advanced computer science course and plan to continue their education at an accredited four-year college or university majoring in computer-related study. Winners receive a $10,000 scholarship and a paid internship at Amazon the summer after their freshman year of college. </p>",
+        "eligibility": [
+            "<li>U.S citizen or permanent resident</li>",
+            "<li>High school senior who is planning to enroll in a an accredited 4-year college/university</li>",
+            "<li>Have completed the AP computer science course or taken the AP computer science test</li>",
+            "<li>Have a minimum GPA of 3.0 on a 4.0 scale</li>",
+            "<li>Immediate families of amazon employees or its subsidiaries are not eligible</li>"
+        ],
+        "components": [
+            "<li>Short answer questions</li>",
+            "<li>Letter of Recommendation, preferrably by a Computer Science teacher or instructor</li>",
+            "<li>Official High School transcript</li>",
+            "<li>Other Information TBA</li>"
+        ],
+        "deadlines": [
+            "<p>Application Deadline(s): </p>",
+            "<li>Applications open in November</li>"
+        ]
+    },
+
+    {
+        "name": "<h2>ISC<sup>2</sup> Undergraduate Cybersecurity Scholarship - <a href='https://www.iamcybersafe.org/s/undergraduate-scholarships'target='_blank'>Apply here</a></h2>",
+        "summary": "<p>The (ISC)² Undergraduate Scholarship offers students focused on Cybersecurity scholarships from $1,000 to $5,000 per recipient. </p>",
+        "eligibility": [
+            "<li>Must be either a high school senior or college undergraduate pursuing a degree that focuses on cybersecurity, or information assurance</li>",
+            "<li>3.3 GPA or higher</li>"
+        ],
+        "components": [
+            "<li>Unofficial Transcripts for Application, and if award is received, Official Transcripts will be asked (Transcripts of the latest academic institution the recipient has attended)</li>",
+            "<li>One letter of recommendation</li>",
+            "<li>Short essay component</li>"
+        ],
+        "deadlines": [
+            "<p>Application Deadline(s): </p>",
+            "<li>Applications Open Between: Nov. 16 - Mar. 8</li>"
+        ]
+    },
+
+    {
+        "name": "<h2>UCLA The Nicholas Endowment TFT Summer Institute Scholarship - <a href='http://www.tft.ucla.edu/summer-institute/nicholas-endowment-ftvdm/'target='_blank'>Apply here</a></h2>",
+        "summary": "<p> The Nicholas Endowment TFT Summer Institute Scholarship for Film and Television is aimed to help high school students from the grades 9-12 who have experienced personal repercussions from COVID-19 and are interested in participating in the UCLA Film and Television Summer Institute, which encompasses animation, stop motion animation, cinematography, and filmmaking. </p>",
+        "eligibility": [
+            "<li>Be a high school student</li>",
+            "<li>Have not received a prior UCLA Summer Session scholarship</li>",
+            "<li>Family annual income is $100,000 or under</li>",
+            "<li>Be a high school student currently enrolled in a UCLA Film and Summer Institute </li>"
+        ],
+        "components": [
+            "<li>Transcript from 9th to current grade with cumulative GPA</li>",
+            "<li>Student resume</li>",
+            "<li>Personal Statement</li>",
+            "<li>W-2 Tax form</li>",
+            "<li>1040 Tax Form  </li>"
+        ],
+        "deadlines": [
+            "<p>Application Deadline(s): </p>",
+            "<li>Register for UCLA Film and Television Summer Institute: Feb. 15</li>",
+            "<li>Nicholas Endowment Scholarship Application is Open Between: Apr. 2 - May 5</li>"
+        ]
+    }
+]
+
+
+
