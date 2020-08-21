@@ -37,18 +37,21 @@ nav.header {
 }
 
 nav.header > span {
-    padding: 1%;
+    padding: 0;
     flex: 6;
     text-align: left; 
     padding-left: 2%;
     color: white;
 }
 
-a.navlogo {
+.navlogo {
+    padding: 0;
     color: white;
+    width: 30px;
+    height: 30px;
 }
 
-a.navlogo:hover {
+.navlogo:hover {
     color: white;
     text-decoration: none;
 }
@@ -285,4 +288,10 @@ nav.header > a:not(.navlogo), .dropdown {
 
 .unstyled, .unstyled:hover {
     color: white;
+}
+
+.info-blub {
+    padding: 20px;
+    border: 2px solid darkgoldenrod;
+    border-radius: 5px;
 }
