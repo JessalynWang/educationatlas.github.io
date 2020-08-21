@@ -1,11 +1,11 @@
 [
     {
         "name": "<h2>QuestBridge Scholarship - <a href='https://www.questbridge.org/high-school-students/national-college-match' target='_blank'>Apply here</a></h2>",
-        "summary": "<p>The QuestBridge Scholarship allows high school seniors facing financial difficulties to apply at the United States’ top colleges and universities for free and be considered for early admission and a full four-year scholarship worth over $200,000 that covers tuition and fees, room and board, books and supplies, and travel expenses. Moreover, it allows students to elaborate on their unique stories as a student who excelled academically in high school despite financial hardship. </p>",
+        "summary": "<p>The QuestBridge Scholarship allows high school seniors facing financial difficulties to apply at the United States' top colleges and universities for free and be considered for early admission and a full four-year scholarship worth over $200,000 that covers tuition and fees, room and board, books and supplies, and travel expenses. Moreover, it allows students to elaborate on their unique stories as a student who excelled academically in high school despite financial hardship. </p>",
         "eligibility": [
             "<li>Must be a U.S. citizen and permanent resident OR student currently attending high school in the United States</li>",
             "<li>Must graduate from high school during or before the summer of 2021 and plan to enroll as a freshman in college in the fall of 2021</li>",
-            "<li>Academic Recommendations: Primarily A’s in Honors, AP, and/or IB-level courses, top 5-10% of graduating class, SAT score >1280, ACT composite score >27</li>",
+            "<li>Academic Recommendations: Primarily A's in Honors, AP, and/or IB-level courses, top 5-10% of graduating class, SAT score >1280, ACT composite score >27</li>",
             "<li>Average Financial Qualification: Households earning less than $65,000 annually for a typical family of four and minimal assets</li>"
 
         ],
@@ -18,7 +18,6 @@
             "<li>Any available standardized (SAT, ACT, Subject Tests, IB, AP, or TOEFL) test score reports if taken; SAT and/or ACT test scores are highly recommended (unofficial test score reports are accepted)</li>"
         ],
         "deadlines": [
-            "<p>Application Deadline(s): </p>",
             "<li>Sep. 29</li>"
         ]
     },
@@ -39,7 +38,6 @@
             "<li>Currently Unknown</li>"
         ],
         "deadlines": [
-            "<p>Application Deadline(s): </p>",
             "<li>Applications Open Between: July 15 - Sep. 15</li>"
         ]
     },
@@ -58,7 +56,6 @@
             "<li>Letter of recommendation </li>"
         ],
         "deadlines": [
-            "<p>Application Deadline(s): </p>",
             "<li>Applications Open Between: Nov. 4 - Jan. 31</li>"
         ]
     },
@@ -80,26 +77,24 @@
             "<li>Other Information TBA</li>"
         ],
         "deadlines": [
-            "<p>Application Deadline(s): </p>",
             "<li>Applications open in November</li>"
         ]
     },
 
     {
         "name": "<h2>ISC<sup>2</sup> Undergraduate Cybersecurity Scholarship - <a href='https://www.iamcybersafe.org/s/undergraduate-scholarships' target='_blank'>Apply here</a></h2>",
-        "summary": "<p>The (ISC)² Undergraduate Scholarship offers students focused on Cybersecurity scholarships from $1,000 to $5,000 per recipient. </p>",
+        "summary": "<p>The (ISC)<sup>2</sup> Undergraduate Scholarship offers students focused on Cybersecurity scholarships from $1,000 to $5,000 per recipient. </p>",
         "eligibility": [
-            "<li>Must be either a high school senior or college undergraduate pursuing a degree that focuses on cybersecurity, or information assurance</li>",
-            "<li>3.3 GPA or higher</li>"
+          "<li>Must be either a high school senior or college undergraduate pursuing a degree that focuses on cybersecurity, or information assurance</li>",
+          "<li>3.3 GPA or higher</li>"
         ],
         "components": [
-            "<li>Unofficial Transcripts for Application, and if award is received, Official Transcripts will be asked (Transcripts of the latest academic institution the recipient has attended)</li>",
-            "<li>One letter of recommendation</li>",
-            "<li>Short essay component</li>"
+          "<li>Unofficial Transcripts for Application, and if award is received, Official Transcripts will be asked (Transcripts of the latest academic institution the recipient has attended)</li>",
+          "<li>One letter of recommendation</li>",
+          "<li>Short essay component</li>"
         ],
         "deadlines": [
-            "<p>Application Deadline(s): </p>",
-            "<li>Applications Open Between: Nov. 16 - Mar. 8</li>"
+          "<li>Applications Open Between: Nov. 16 - Mar. 8</li>"
         ]
     },
 
@@ -120,7 +115,6 @@
             "<li>1040 Tax Form  </li>"
         ],
         "deadlines": [
-            "<p>Application Deadline(s): </p>",
             "<li>Register for UCLA Film and Television Summer Institute: Feb. 15</li>",
             "<li>Nicholas Endowment Scholarship Application is Open Between: Apr. 2 - May 5</li>"
         ]
