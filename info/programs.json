@@ -10,7 +10,7 @@
     "components": [
       "<li>High school transcript and standardized test score submissions</li>",
       "<li>One 400-650 word essay</li>",
-      "<li>One recommendation written on applicant’s behalf</li>"
+      "<li>One recommendation written on applicant's behalf</li>"
     ],
     "deadlines": [
       "<li>TBA (approximately January 2021)</li>"
@@ -49,5 +49,66 @@
       "<li>TBA, opens in the fall</li>"
     ]
 
+  },
+  {
+    "name": "<h2>CSSSA Visual Arts Summer Program - <a href='https://www.csssa.ca.gov/academic-programs/visual-arts/' target='_blank'>Apply here</a></h2>",
+    "summary": "<p>The CSSSA Visual Arts Summer Program allows students who show potential in the Visual Arts to learn about the various facets of the field, including Figure Drawing, Studio Courses, Design, and more. </p>",
+    "eligibility": [
+      "<li>Must be between grades 9 and 12</li>"
+    ],
+    "components": [
+      "<li>Depict and upload a work in your own medium showing an issue that interests you</li>",
+      "<li>Upload an art piece that represents who you are</li>",
+      "<li>Upload a tertiary piece of artwork that demonstrates your skill in any of your preferred media</li>",
+      "<li>Send an application and all teacher recommendations</li>"
+    ],
+    "deadlines": [
+      "<li>NOTE: 2020 CSSSA has been cancelled due to COVID-19</li>",
+      "<li>2021 Application TBA, estimated deadline in mid-Feb.</li>"
+    ]
+  },
+
+  {
+    "name": "<h2>Chapman University Dodge College Summer Film Academy - <a href='https://www.chapman.edu/dodge/summer-programs/summer-film-academy/index.aspx' target='_blank'>Apply here</a></h2>",
+    "summary": "<p>The Dodge College Summer Film Academy is a two week intensive course for high school students to explore the aspects of filmmaking with field trips, guest speakers, discussion classes, screenings, and collaborate on their very own short digital project that will be screened at the Folino Theater at the end of the program. </p>",
+    "eligibility": [
+      "<li>Be a junior or senior in high school</li>",
+      "<li>3.0 or higher GPA</li>",
+      "<li>Have a creative resume</li>"
+    ],
+    "components": [
+      "<li>Personal Statement</li>",
+      "<li>Written Essay</li>",
+      "<li>Creative Resume</li>",
+      "<li>Letter of Recommendation</li>",
+      "<li>High School Transcript</li>",
+      "<li>$10 Application Fee</li>"
+    ],
+    "deadlines": [
+      "<li>Application Due Date: Mar. 1</li>",
+      "<li>Application Decisions Date: Apr. 20</li>",
+      "<li>Non-refundable $500 Deposit due: May 8</li>"
+    ]
+  },
+
+  {
+    "name": "<h2>UCLA Film and Summer Institute Track 8: Pre-College Writing for TV- Big Ideas for the Small Screen - <a href='http://www.tft.ucla.edu/programs/summer-programs/ucla-film-and-television-summer-institute/track-8-writing-for-tv/' target='_blank'>Apply here</a></h2>",
+    "summary": "<p>The UCLA Film and Summer Institute welcomes high students with a love of storytelling to enroll into a summer session where they will learn how to write scripts for television by writing pilot episode outlines, episode teasers, and series treatments with small workshops. Guest lecture workshops and a pitching panel is also included within this summer session. </p>",
+    "eligibility": [
+      "<li>High school students from 9-12th grade</li>",
+      "<li>Must be 14 years of age as of June 22, 2020</li>",
+      "<li>Applicants and Parent Approval</li>",
+      "<li></li>"
+    ],
+    "components": [
+      "<li>$150 Non-refundable online Registration</li>",
+      "<li>Program Participant Agreement</li>",
+      "<li>Questionnaire</li>",
+      "<li>Availability information provided - <a href='https://r.summer.ucla.edu/institutes/register/precollegeinstitutes.cfm</li>' target='_blank'> here</a></li>"
+    ],
+    "deadlines": [
+      "<li>Payment Deadline: Payments must be paid no later than 5PM, June 5</li>",
+      "<li>Deadlines by program may vary according to the link provided - <a href='https://r.summer.ucla.edu/institutes/register/precollegeinstitutes.cfm</li>' target='_blank'> here</a></li>"
+    ]
   }
 ]
