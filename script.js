@@ -42,7 +42,19 @@ function classMatch(name) {
         "<h2>Eugene and Ruth Roberts Summer Student Academy - <a href='https://www.cityofhope.org/education/irell-and-manella-graduate-school-of-biological-sciences/irell-manella-graduate-school-programs/summer-student-academy' target='_blank'>Apply here</a></h2>": "biology",
         "<h2>NASA Internships - <a href='https://intern.nasa.gov/' target='_blank'>Apply here</a></h2>": "tech misc",
         "<h2>Cedar-Sinai Minors in Research Program - <a href='https://www.cedars-sinai.org/education/professional-training-programs/internship/minors.html?_ga=2.160060728.465703239.1597968786-321095429.1597968786' target='_blank'>Apply here</a></h2>": "biology",
-        "<h2>Department of Homeland Security Cybersecurity Internship Program - <a href='https://www.dhs.gov/homeland-security-careers/cybersecurity-internship-program-0' target='_blank'>Apply here</a></h2>": "tech"
+        "<h2>Department of Homeland Security Cybersecurity Internship Program - <a href='https://www.dhs.gov/homeland-security-careers/cybersecurity-internship-program-0' target='_blank'>Apply here</a></h2>": "tech",
+        "<h2>Stanford Summer Session - <a href='https://summer.stanford.edu/program/high-school-high-school-summer-college' target='_blank'>Apply here</a></h2>": "gen",
+        "<h2>Launch X - <a href='https://launchx.com/summer-program/' target='_blank'>Apply here</a></h2>": "business",
+        "<h2>Telluride Association Summer Program - <a href='https://www.tellurideassociation.org/our-programs/high-school-students/summer-program-juniors-tasp/apply-tasp/' target='_blank'>Apply here</a></h2>": "gen",
+        "<h2>CSSSA Visual Arts Summer Program - <a href='https://www.csssa.ca.gov/academic-programs/visual-arts/' target='_blank'>Apply here</a></h2>": "arts",
+        "<h2>Chapman University Dodge College Summer Film Academy - <a href='https://www.chapman.edu/dodge/summer-programs/summer-film-academy/index.aspx' target='_blank'>Apply here</a></h2>": "film",
+        "<h2>UCLA Film and Summer Institute Track 8: Pre-College Writing for TV- Big Ideas for the Small Screen - <a href='http://www.tft.ucla.edu/programs/summer-programs/ucla-film-and-television-summer-institute/track-8-writing-for-tv/' target='_blank'>Apply here</a></h2>": "film",
+        "<h2>QuestBridge Scholarship - <a href='https://www.questbridge.org/high-school-students/national-college-match' target='_blank'>Apply here</a></h2>": "gen",
+        "<h2>The Gates Scholarship - <a href='https://www.thegatesscholarship.org/scholarship' target='_blank'>Apply here</a></h2>": "gen",
+        "<h2>Bank of America Scholarship - <a href='https://worldscholarshipforum.com/bank-america-student-leaders-program/' target='_blank'>Apply here</a></h2>": "gen",
+        "<h2>Amazon Future Engineer Program - <a href='https://learnmore.scholarsapply.org/amazonfutureengineer/' target='_blank'>Apply here</a></h2>": "tech",
+        "<h2>ISC<sup>2</sup> Undergraduate Cybersecurity Scholarship - <a href='https://www.iamcybersafe.org/s/undergraduate-scholarships' target='_blank'>Apply here</a></h2>": "tech",
+        "<h2>UCLA The Nicholas Endowment TFT Summer Institute Scholarship - <a href='http://www.tft.ucla.edu/summer-institute/nicholas-endowment-ftvdm/' target='_blank'>Apply here</a></h2>": "film"
     }
 
     return matches[name];
