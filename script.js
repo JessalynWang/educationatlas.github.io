@@ -24,7 +24,7 @@ function addContent(articleData) {
         for (let c in articleData[a]["components"]) {
             content = content + articleData[a]["components"][c];
         }
-        content = content + "</ul>" + "</p>" + "<p>Application Deadlines:" + "<ul style='list-style-type: disc; padding-left: 50px;'>";
+        content = content + "</ul>" + "</p>" + "<p>Application Deadline(s):" + "<ul style='list-style-type: disc; padding-left: 50px;'>";
         for (let c in articleData[a]["deadlines"]) {
             content = content + articleData[a]["deadlines"][c];
         }
