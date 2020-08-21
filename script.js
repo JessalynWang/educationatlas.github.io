@@ -14,7 +14,6 @@ function loadContent() {
 function addContent(articleData) {
     let place = document.getElementsByClassName("innerthings");
     let content = "";
-    console.log(articleData);
     for (let a in articleData) {
         content = content + "<div class='info-blub'>" + articleData[a]["name"] + "<hr class='gold' />" + articleData[a]["summary"] + "<p>Eligibility:" + "<ul style='list-style-type: disc; padding-left: 50px;'>";
         for (let c in articleData[a]["eligibility"]) {

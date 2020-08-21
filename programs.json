@@ -1,0 +1,53 @@
+[
+  {
+    "name": "<h2>Stanford Summer Session - <a href='https://summer.stanford.edu/program/high-school-high-school-summer-college' target='_blank'>Apply here</a></h2>",
+    "summary": "<p>The Stanford Summer Session for high school students is a summer program geared toward providing high-achieving and ambitious students the opportunity to attend and enroll in a world-class university educational experience over the span of two months. This summer session is the equivalent of the summer quarter at Stanford, allowing students to take courses and earn credit at Stanford University.</p>",
+    "eligibility": [
+      "<li>Be a current sophomore, junior, or senior, or a gap year student at the time of application.</li>",
+      "<li>Be at least 16 at the start of the program and no more than 19 by the last day, August 16, 2020</li>",
+      "<li>Not be matriculating into Stanford as a freshman</li>"
+    ],
+    "components": [
+      "<li>High school transcript and standardized test score submissions</li>",
+      "<li>One 400-650 word essay</li>",
+      "<li>One recommendation written on applicant’s behalf</li>"
+    ],
+    "deadlines": [
+      "<li>TBA (approximately January 2021)</li>"
+    ]
+
+  },
+  {
+    "name": "<h2>Launch X - <a href='https://launchx.com/summer-program/' target='_blank'>Apply here</a></h2>",
+    "summary": "<p>LaunchX is an entrepreneurship summer program that supports high school students as they launch their own startups. Accepted students attend workshops, lectures, simulations, and discussions to help them identify and create startups offering services to an open market, with partnerships available.</p>",
+    "eligibility": [
+      "<li>Must be a high school student</li>"
+    ],
+    "components": [
+      "<li>List of activities</li>",
+      "<li>Transcripts</li>",
+      "<li>Video Introduction</li>"
+    ],
+    "deadlines": [
+      "<li>Early Admissions: December 13, 2020</li>",
+      "<li>Spring applications open: Oct.1 - Oct. 31</li>",
+      "<li>Regular Admissions: January 31, 2021</li>"
+    ]
+
+  },
+  {
+    "name": "<h2>Telluride Association Summer Program - <a href='https://www.tellurideassociation.org/our-programs/high-school-students/summer-program-juniors-tasp/apply-tasp/' target='_blank'>Apply here</a></h2>",
+    "summary": "<p>TASP is a general education program aimed at students who demonstrate curiosity and motivation, rather than prior knowledge. Each session is focused on an academic seminar and focuses on writing, reading, and self-governance.</p>",
+    "eligibility": [
+      "<li>Must be a current high school junior</li>"
+    ],
+    "components": [
+      "<li>Essay</li>",
+      "<li>Short answer questions</li>"
+    ],
+    "deadlines": [
+      "<li>TBA, opens in the fall</li>"
+    ]
+
+  }
+]
