@@ -1,9 +1,8 @@
 [
   {
-    "name": "<h1>CBS News Internship</h1>",
+    "name": "<h2>CBS News Internship - <a href='https://www.cbsnews.com/news/cbs-news-internship-program/'>Apply here</a></h2>",
     "summary": "<p>The CBS News Internship Program is a paid internship which gives college students the opportunity to further their interest in broadcasting and journalism in various New York City, Los Angeles, and Washington D.C. CBS departments, including but not limited to CBS Evening News, 60 Minutes, 48 Hours, and CBS Sunday Morning. Interns are expected to learn fundamental news-gathering and on-air skills, assist with reporters and producers, and perform all production-related tasks and elements. </p>",
     "eligibility": [
-      "<p>Eligibility:</p>",
       "<li>Ability to work in New York City, Los Angeles, or Washington D.C.</li>",
       "<li>Juniors and senior students currently enrolled in a 4-year university</li>",
       "<li>Full-time summer and 20 hours minimum fall/spring time commitment</li>",
@@ -13,7 +12,6 @@
       "<li>3.0 GPA or above (recommended)"
     ],
     "components": [
-      "<p>Application Components:</p>",
       "<li>Currently unknown</li>"
     ],
     "deadlines": [
@@ -22,6 +20,6 @@
       "<li>Spring applications open: Oct.1 - Oct. 31</li>",
       "<li>Summer applications open: Jan. 2 - Feb. 28</li>"
     ]
-    
+
   }
 ]
