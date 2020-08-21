@@ -86,7 +86,7 @@
     },
 
     {
-        "name": "<h2>ISC<sup>2</sup> Undergraduate Cybersecurity Scholarship - <a href='https://www.iamcybersafe.org/s/undergraduate-scholarships'target='_blank'>Apply here</a></h2>",
+        "name": "<h2>ISC<sup>2</sup> Undergraduate Cybersecurity Scholarship - <a href='https://www.iamcybersafe.org/s/undergraduate-scholarships' target='_blank'>Apply here</a></h2>",
         "summary": "<p>The (ISC)² Undergraduate Scholarship offers students focused on Cybersecurity scholarships from $1,000 to $5,000 per recipient. </p>",
         "eligibility": [
             "<li>Must be either a high school senior or college undergraduate pursuing a degree that focuses on cybersecurity, or information assurance</li>",
@@ -104,7 +104,7 @@
     },
 
     {
-        "name": "<h2>UCLA The Nicholas Endowment TFT Summer Institute Scholarship - <a href='http://www.tft.ucla.edu/summer-institute/nicholas-endowment-ftvdm/'target='_blank'>Apply here</a></h2>",
+        "name": "<h2>UCLA The Nicholas Endowment TFT Summer Institute Scholarship - <a href='http://www.tft.ucla.edu/summer-institute/nicholas-endowment-ftvdm/' target='_blank'>Apply here</a></h2>",
         "summary": "<p> The Nicholas Endowment TFT Summer Institute Scholarship for Film and Television is aimed to help high school students from the grades 9-12 who have experienced personal repercussions from COVID-19 and are interested in participating in the UCLA Film and Television Summer Institute, which encompasses animation, stop motion animation, cinematography, and filmmaking. </p>",
         "eligibility": [
             "<li>Be a high school student</li>",
