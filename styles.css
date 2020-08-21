@@ -308,8 +308,22 @@ nav.header > a:not(.navlogo), .dropdown {
 
 .filterb {
     background-color: white;
-    border-color: #023c6b;
-    border-radius: 3px;
+    border: 2px solid #023c6b;
+    border-radius: 5px;
     height: 20px;
     width: 20px;
 }
+
+.filterb:hover {
+    background-color: #023c6b;
+}
+
+.selected {
+    background-color: #023c6b;
+}
+
+.hide {
+    display: none;
+}
+
+.biology, .digitalmedia, .tech, .misc {}
