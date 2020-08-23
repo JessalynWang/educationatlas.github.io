@@ -45,10 +45,10 @@ nav.header > span {
 }
 
 .navlogo {
-    padding: 0;
+    padding-top: 0px;
     color: white;
-    width: 30px;
-    height: 30px;
+    width: auto;
+    height: 43px;
 }
 
 .navlogo:hover {
@@ -87,8 +87,8 @@ nav.header > a:not(.navlogo):hover, .dropdown:hover {
     color: white;
 }
 
-nav.header > a:not(.navlogo), .dropdown {
-    padding: 1%;
+nav.header > a, .dropdown {
+    padding: 15px;
     flex: 1;
     text-align: center;
     border: none;
@@ -326,4 +326,18 @@ nav.header > a:not(.navlogo), .dropdown {
     display: none;
 }
 
-.biology, .digitalmedia, .tech, .misc {}
+.newsbtn {
+    color: #023c6b;
+    background-color: white;
+    border: 2px solid #023c6b;
+}
+
+.newsbtn:hover {
+    color: #023c6b;
+    text-decoration: underline;
+}
+
+.newseml {
+    color: #023c6b;
+    border: 2px solid #023c6b;
+}
