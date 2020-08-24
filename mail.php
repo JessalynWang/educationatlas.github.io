@@ -1,5 +1,5 @@
 <?php
-	if($_POST["submit"]) {
+	if(isset($_POST["submit"])) {
 		$recipient = "1234astuanet@gmail.com";
 		$subject = "test";
 		$content = $_POST["emailinput"];
