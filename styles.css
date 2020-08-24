@@ -349,10 +349,51 @@ nav.header > a, .dropdown {
     border: 2px solid #023c6b;
 }
 
-.msignup {
-}
-
 .msignup > div > input, label {
     display: block;
-    margin: 20px 0px;
+    margin: 20px 0px 5px 0px;
+}
+
+.msubbtn {
+    background-color: white;
+    color: #023c6b;
+    border: 1px solid #023c6b;
+    transition: all 0.3s ease;
+    padding: 5px;
+}
+
+.msubbtn:hover {
+    background-color: #f7ecd1;
+}
+
+input, textarea {
+    border: 1px solid #023c6b;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.largerinput {
+    height: 20%;
+}
+
+.mentlist > li {
+    margin: 10px;
+}
+
+.revealbtn {
+    padding: 10px;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+    background-color: rgba(2, 60, 107, 0.30);
+}
+
+.revealbtn:hover {
+    cursor: pointer;
+    background-color: #f7ecd1;
+}
+
+.msignup {
+    padding: 20px 100px 40px 100px;
+    border: 2px solid darkgoldenrod;
+    border-radius: 5px;
 }

@@ -1,6 +1,5 @@
-function loadContent() {
+function loadContent(name) {
     let xmlhttp = new XMLHttpRequest();
-    let name = location.search.substring(6);
     xmlhttp.onreadystatechange = function () {
         if (this.readyState == 4 && this.status == 200) {
             let articleData = JSON.parse(this.responseText);
