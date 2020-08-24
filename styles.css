@@ -154,6 +154,13 @@ nav.header > a, .dropdown {
     transform: translate(-50%, -50%);
 }
 
+.centeredabs {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
 .fb1 {
     color: white;
     flex: 1;
@@ -340,4 +347,12 @@ nav.header > a, .dropdown {
 .newseml {
     color: #023c6b;
     border: 2px solid #023c6b;
+}
+
+.msignup {
+}
+
+.msignup > div > input, label {
+    display: block;
+    margin: 20px 0px;
 }

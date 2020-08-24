@@ -36,9 +36,30 @@
         </div>
         <a href="contact.html">Contact</a>
     </nav>
-    <div class="container" style="padding: 100px">
+    <div class="container" style="position: relative; padding: 100px 100px 0px 100px;">
         <h1>Mentoring page is under construction</h1>
         <p>A team of very averagely trained banana slugs are working through the burning of their school to get this done. Please be patient! It will be here by Sunday (8/23).</p>
+        <h3 style="text-align: center">Sign Up Below</h3>
+        <br />
+        <hr class="gold" style="margin: 0px 70px;" />
+    </div>
+    <div class="container" style="position: relative; padding: 0px 100px;">
+        <div class="col-sm-12 d-flex justify-content-center">
+            <form method="POST" action="/signup" class="msignup">
+                <label>First Name: (required)</label>
+                <input type="text" name="first_name" /><br />
+                <label>Last Name: (required)</label>
+                <input type="text" name="last_name" /><br />
+                <label>E-mail: (required)</label>
+                <input type="text" name="email" /><br />
+                <label>Preferred Tutor: </label>
+                <input type="text" name="pref_tutor" /><br />
+                <label>Type of Tutoring: </label>
+                <input type="text" name="tutoring" /><br /><br />
+                <input type="submit" value="Sign up!" />
+            </form>
+        </div>
+
     </div>
     <div class="container" style="margin: 30px">
         <div style="display: flex">
