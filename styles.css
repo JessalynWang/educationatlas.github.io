@@ -105,8 +105,15 @@ nav.header > a, .dropdown {
     position: relative;
     height: 100vh;
     min-width: 100%;
-    background-image: url("images/Whoknowsdudev2-PixTeller.png");
+    background-image: url("images/Bg2.png");
     background-position: center;
+    background-size: 100%;
+}
+
+.mentbg {
+    background-image: url("images/Bg3.png");
+    background-position: center;
+    background-size: 300%
 }
 
 .smallindex {
@@ -228,7 +235,7 @@ nav.header > a, .dropdown {
 .contactcont {
     padding: 20% 30%;
     max-height: 100vh;
-    min-width: 100vw;
+    width: 100vw;
     text-align: center;
 
 }
@@ -382,14 +389,9 @@ input, textarea {
 
 .revealbtn {
     padding: 10px;
+    border: 2px solid darkgoldenrod;
     border-radius: 5px;
     transition: all 0.3s ease;
-    background-color: rgba(2, 60, 107, 0.30);
-}
-
-.revealbtn:hover {
-    cursor: pointer;
-    background-color: #f7ecd1;
 }
 
 .msignup {
