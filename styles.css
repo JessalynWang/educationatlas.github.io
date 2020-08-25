@@ -12,11 +12,11 @@
 }
 
 ::-webkit-scrollbar-track {
-    display: none;
+    background: darkgoldenrod;
 }
 
 ::-webkit-scrollbar-thumb {
-    background: rgba(2, 60, 107, 0.80);
+    background: #0e548d;
 }
 
 ::-webkit-scrollbar-thumb:hover {
@@ -282,6 +282,11 @@ nav.header > a, .dropdown {
     height: 1px;
 }
 
+.blue {
+    background-color: #023c6b;
+    height: 1px;
+}
+
 .rtxtbox {
     min-height: 100px;
     border: 2px solid darkgoldenrod;
@@ -385,6 +390,7 @@ input, textarea {
 
 .mentlist > li {
     margin: 10px;
+    font-weight: bold;
 }
 
 .revealbtn {
