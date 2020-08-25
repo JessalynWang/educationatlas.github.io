@@ -192,7 +192,6 @@ nav.header > a, .dropdown {
   }
 
 .fa:hover {
-    opacity: 0.7;
     color: #023c6b;
     background-color: darkgoldenrod;
     text-decoration: none;
