@@ -1,7 +1,7 @@
 <?php 
-if(isset($_POST['submit'])){
+if(isset($_GET['submit'])){
     $to = "1234astuanet@gmail.com"; // this is your Email address
-    $from = $_POST['email']; // this is the sender's Email address
+    $from = $_GET['email']; // this is the sender's Email address
     $subject = "Mailing list sign up!";
     $message = $from . "signed up for our mailing list!";
 
