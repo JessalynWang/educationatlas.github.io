@@ -95,25 +95,20 @@ nav.header > a, .dropdown {
     transition: all 0.3s ease;
 }
 
-.bottomhalf {
-    position: absolute;
-    background-color: #023c6b;
-    min-width: 100%;
-}
-
 .indexbox {
     position: relative;
     height: 100vh;
     min-width: 100%;
     background-image: url("images/Bg2.png");
     background-position: center;
-    background-size: 100%;
+    background-size: cover;
 }
 
 .mentbg {
     background-image: url("images/Bg3.png");
     background-position: center;
-    background-size: 300%
+    background-size: 300%; 
+    background-size: cover;
 }
 
 .smallindex {
@@ -135,6 +130,7 @@ nav.header > a, .dropdown {
     width: 100%;
     color: white;
     padding: 0;
+    flex-wrap: wrap;
 }
 
 @media only screen and (min-width: 890px) {
@@ -148,6 +144,7 @@ nav.header > a, .dropdown {
     flex: 1;
     text-align: center;
     background-color: #023c6b;
+    min-width: 266px;
 }
 
 .decalthumb:hover {

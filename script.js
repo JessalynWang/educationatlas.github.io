@@ -1,4 +1,4 @@
-function loadContent() {
+(function loadContent() {
     let xmlhttp = new XMLHttpRequest();
     let name = location.search.substring(6);
     xmlhttp.onreadystatechange = function () {
@@ -9,7 +9,7 @@ function loadContent() {
     };
     xmlhttp.open("GET", "https://jessalynwang.github.io/educationatlas.github.io/info/" + name + ".json", true);
     xmlhttp.send();
-}
+})();
 
 function addContent(articleData) {
     let place = document.getElementsByClassName("innerthings");
