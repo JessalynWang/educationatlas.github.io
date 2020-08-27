@@ -67,7 +67,7 @@ nav.header > span {
 }
 
 .navbar-toggler {
-    padding-left: 15px;
+    margin-left: 30%;
 }
 
 .fa-bars {
@@ -272,13 +272,12 @@ nav.header > span {
 }
 
 .resourcenav > a {
+    margin: 2px;
     flex: 1;
     padding: 10px;
     color: #023c6b;
-    border-right: 1px solid darkgoldenrod;
-    border-left: 1px solid darkgoldenrod;
-    border-bottom: 2px solid darkgoldenrod;
-    border-top: 2px solid darkgoldenrod;
+    border: 2px solid darkgoldenrod;
+    border-radius: 5px;
 }
 
 #ment {
@@ -430,4 +429,14 @@ input, textarea {
     padding: 20px 100px 40px 100px;
     border: 2px solid darkgoldenrod;
     border-radius: 5px;
+}
+
+.gencon {
+    padding: 100px;
+}
+
+@media only screen and (max-width: 580px) {
+    .gencon {
+        padding: 75px 2%;
+    }
 }

@@ -56,7 +56,7 @@
 
     <div class="container-fluid" style="padding-top: 54px;">
         <div class="row justify-content-center">
-            <div class="col-lg-12 mentbg" style="padding: 65px 100px; min-height: 100vh">
+            <div class="col-lg-12 mentbg mentcon">
                 <div class="pitch" style="background-color: white; padding: 30px; border-radius: 5px; height: 100%">
                     <h1 style="text-align: center; letter-spacing: 2px; font-weight: bold">Mentoring</h1>
                     <hr class="gold" />
@@ -101,7 +101,7 @@
                                 <textarea type="text" name="tutoring" rows="8" cols="26" placeholder="ex. essay review, resume review, college apps, course plan, finding extracurriculars"></textarea><br /><br />
                                 <input type="submit" value="Sign up!" class="msubbtn" />
                             </form>-->
-                            <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc7xeg1Y_Zgof2T2ECPdywRiNZ0WPKnwJwqxWqUCUBM1oUbbw/viewform?embedded=true" width="640" height="1264" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+                            <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc7xeg1Y_Zgof2T2ECPdywRiNZ0WPKnwJwqxWqUCUBM1oUbbw/viewform?embedded=true" width="640" height="1500" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
                         </div>
                     </div>
                 </div>
@@ -121,3 +121,23 @@
 
 </body>
 </html>
+
+<style>
+    .mentcon {
+        padding: 65px 100px; 
+        min-height: 100vh;
+    }
+
+    @media only screen and (max-width: 590px) {
+        .mentcon {
+            padding: 40px 2%;
+        }
+    }
+
+    @media only screen and (min-width: 1440px) {
+        .mentcon {
+            padding: 65px 20%;
+        }
+    }
+
+</style>
