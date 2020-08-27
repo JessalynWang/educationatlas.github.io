@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@100;400;700&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -38,10 +39,24 @@ nav.header {
 
 nav.header > span {
     padding: 0;
-    flex: 6;
-    text-align: left; 
+    flex: 3;
+    text-align: left;
     padding-left: 2%;
     color: white;
+}
+
+.navbar, #navbarSupportedContent {
+    padding: 0px;
+    margin: 0;
+}
+
+.navbar-nav {
+    width: 100%;
+    display: flex;
+}
+
+.nav-item {
+    flex: 1;
 }
 
 .navlogo {
@@ -51,22 +66,20 @@ nav.header > span {
     height: 43px;
 }
 
-.navlogo:hover {
+.navbar-toggler {
+    padding-left: 15px;
+}
+
+.fa-bars {
+    font-size: 30px;
+}
+
+.dropdown-toggle, .dropdown-toggle:hover, .navlogo:hover {
     color: white;
     text-decoration: none;
 }
 
-nav.header > a, .dropdown-toggle {
-    color: white;
-    text-decoration: none;
-}
-
-.dropdown-toggle:hover {
-    color: white;
-    text-decoration: none;
-}
-
-nav.header > a:not(.navlogo):hover, .dropdown:hover {
+.nav-link:hover{
     background-color: darkgoldenrod;
     color: white;
     text-decoration: none;
@@ -74,6 +87,14 @@ nav.header > a:not(.navlogo):hover, .dropdown:hover {
 
 .dropdown-menu {
     padding: 0px;
+    box-shadow: none;
+    border: none;
+    background-color: inherit;
+    text-align: center;
+}
+
+.dropdown-divider {
+    height: 1px;
 }
 
 .dropdown-item {
@@ -87,12 +108,16 @@ nav.header > a:not(.navlogo):hover, .dropdown:hover {
     color: white;
 }
 
-nav.header > a, .dropdown {
+.nav-link {
     padding: 15px;
     flex: 1;
     text-align: center;
     border: none;
-    transition: all 0.3s ease;
+    transition: background-color 0.3s ease;
+    background-color: #023c6b;
+    color: white;
+    text-decoration: none;
+    letter-spacing: 1px;
 }
 
 .indexbox {
@@ -107,7 +132,7 @@ nav.header > a, .dropdown {
 .mentbg {
     background-image: url("images/Bg3.png");
     background-position: center;
-    background-size: 300%; 
+    background-size: 300%;
     background-size: cover;
 }
 
@@ -192,7 +217,7 @@ nav.header > a, .dropdown {
     text-decoration: none;
     margin: 10px;
     border-radius: 50%;
-  }
+}
 
 .fa:hover {
     color: #023c6b;
@@ -226,7 +251,7 @@ nav.header > a, .dropdown {
 
 @media only screen and (max-width: 768px) {
     .col-sm-4 {
-        width:100%;
+        width: 100%;
     }
 }
 
@@ -239,7 +264,6 @@ nav.header > a, .dropdown {
     max-height: 100vh;
     width: 100vw;
     text-align: center;
-
 }
 
 .resourcenav {
@@ -353,10 +377,10 @@ nav.header > a, .dropdown {
     border: 2px solid #023c6b;
 }
 
-.newsbtn:hover {
-    color: #023c6b;
-    text-decoration: underline;
-}
+    .newsbtn:hover {
+        color: #023c6b;
+        text-decoration: underline;
+    }
 
 .newseml {
     color: #023c6b;
