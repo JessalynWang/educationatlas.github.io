@@ -435,8 +435,8 @@ input, textarea {
     padding: 100px;
 }
 
-/*@media only screen and (max-width: 580px) {
+@media only screen and (max-width: 580px) {
     .gencon {
-        padding: 5% 2% 100px 2%;
+        padding: 100px 2%;
     }
-}*/
+}
