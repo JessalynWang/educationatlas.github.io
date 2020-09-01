@@ -97,3 +97,105 @@ function mastercheck() {
         for (let a in chosenones) chosenones[a].classList.remove("hide");
     }
 }
+
+function submitToAPI(e) {
+    e.preventDefault();
+    var URL = "https://lp914ekad3.execute-api.us-west-2.amazonaws.com/newsltr/newssub";
+
+    if ($("#email-input").val() == "") {
+        alert("Please enter your email address");
+        return;
+    }
+
+    var reeamil = /^([\w-\.]+@([\w-]+\.)+[\w-]{2,6})?$/;
+    if (!reeamil.test($("#email-input").val())) {
+        alert("Please enter valid email address");
+        return;
+    }
+
+    var email = $("#email-input").val();
+    var data = {
+        email: email
+    };
+
+    $.ajax({
+        type: "POST",
+        url: "https://lp914ekad3.execute-api.us-west-2.amazonaws.com/newsltr/newssub",
+        dataType: "json",
+        crossDomain: "true",
+        contentType: "application/json; charset=utf-8",
+        data: JSON.stringify(data),
+
+
+        success: function() {
+            // clear form and show a success message
+            alert("Successfull! Thank you for signing up for our newsletter!");
+            document.getElementById("newsletter-form").reset();
+            location.reload();
+        },
+        error: function() {
+            // show an error message
+            alert("Unsuccessfull, there seems to be an error. Please report this to us if you have the time and our team of banana slugs will fix it");
+        }
+    });
+}
+
+function submitToFlask(x) {
+    x.preventDefault();
+    var URL = "";
+
+    if ($("#email-input").val() == "") {
+        alert("Please enter your email address");
+        return;
+    }
+
+    var reeamil = /^([\w-\.]+@([\w-]+\.)+[\w-]{2,6})?$/;
+    if (!reeamil.test($("#email-input").val())) {
+        alert("Please enter valid email address");
+        return;
+    }
+
+    if ($("#fn").val() == "") {
+        alert("Please enter your first name");
+        return;
+    }
+
+    if ($("#ln").val() == "") {
+        alert("Please enter your last name");
+        return;
+    }
+
+    var email = $("#email-input").val();
+    var first = $("#fn").val();
+    var last = $("#ln").val();
+    var pref = $("#pt").val();
+    var type = $("#typeofm").val();
+    var data = {
+        email: email,
+        first: first,
+        last: last,
+        pref_mentor: pref,
+        type_of_mentoring: type
+    };
+
+    $.ajax({
+        type: "POST",
+        url: "",
+        dataType: "json",
+        crossDomain: "true",
+        contentType: "application/json; charset=utf-8",
+        data: JSON.stringify(data),
+
+
+        success: function() {
+            // clear form and show a success message
+            alert("Successfull! Thank you for signing up for our newsletter!");
+            document.getElementById("newsletter-form").reset();
+            location.reload();
+        },
+        error: function() {
+            // show an error message
+            alert("Unsuccessfull, there seems to be an error. Please report this to us if you have the time and our team of banana slugs will fix it");
+        }
+    });
+}

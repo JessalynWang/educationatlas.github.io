@@ -13,48 +13,6 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
     <script src="script.js"></script>
     <link rel="icon" type="image/png" href="images/EAFtab.png">
-    <script>
-        function submitToAPI(e) {
-            e.preventDefault();
-            var URL = "https://lp914ekad3.execute-api.us-west-2.amazonaws.com/newsltr/newssub";
-
-                if ($("#email-input").val()=="") {
-                    alert ("Please enter your email id");
-                    return;
-                }
-
-                var reeamil = /^([\w-\.]+@([\w-]+\.)+[\w-]{2,6})?$/;
-                if (!reeamil.test($("#email-input").val())) {
-                    alert ("Please enter valid email address");
-                    return;
-                }
-
-            var email = $("#email-input").val();
-            var data = {
-                email : email
-            };
-
-            $.ajax({
-                type: "POST",
-                url : "https://lp914ekad3.execute-api.us-west-2.amazonaws.com/newsltr/newssub",
-                dataType: "json",
-                crossDomain: "true",
-                contentType: "application/json; charset=utf-8",
-                data: JSON.stringify(data),
-
-         
-                success: function () {
-                // clear form and show a success message
-                alert("Successfull! Thank you for signing up for our newsletter!");
-                document.getElementById("newsletter-form").reset();
-            location.reload();
-                },
-                error: function () {
-                // show an error message
-                alert("Unsuccessfull, there seems to be an error. Please report this to us if you have the time and our team of banana slugs will fix it");
-                }});
-        }
-    </script>
 </head>
 
     <body>
