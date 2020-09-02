@@ -118,8 +118,23 @@
             "<li>Register for UCLA Film and Television Summer Institute: Feb. 15</li>",
             "<li>Nicholas Endowment Scholarship Application is Open Between: Apr. 2 - May 5</li>"
         ]
+    },
+
+    {
+    "name": "<h2>BMI Foundation Student Composer Award - <a href='https://bmifoundation.org/programs/info/bmi_student_composer_awards#:~:text=Student%20Composer%20Awards-,for%20classical%20composers,prominent%20and%20talented%20young%20composers.' target='_blank'>Apply here</a></h2>",
+    "summary": "<p>BMI Foundation Student Composer Award: The BMI Student Composer Award gives awards totalling $20,000 to students for vocal, instrumental, and/or electronic compositions submitted by classical music students. </p>",
+    "eligibility": [
+        "<li>Must be a citizen of a country in the Western Hemisphere</li>",
+        "<li>Currently studying music either privately or at an institution</li>",
+        "<li>Under the age of 28 at the time of submission</li>",
+        "<li>Has not won a BMI Student Composer Award (Honorable Mention excluded) more than two times</li>"
+    ],
+    "components": [
+        "<li>Submission of vocal, instrumental, and/or electronic composition to the BMI Foundation</li>"
+    ],
+    "deadlines": [
+        "<p>Application Deadline(s): TBA</p>"
+    ]
     }
+
 ]
-
-
-
