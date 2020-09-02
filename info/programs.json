@@ -109,5 +109,42 @@
       "<li>Payment Deadline: Payments must be paid no later than 5PM, June 5</li>",
       "<li>Deadlines by program may vary according to the link provided - <a href='https://r.summer.ucla.edu/institutes/register/precollegeinstitutes.cfm</li>' target='_blank'> here</a></li>"
     ]
+  },
+
+  {
+    "name": "<h2>Carnegie Mellon University Summer Academy for Math and Science (SAMS) - <a href='https://www.cmu.edu/pre-college/academic-programs/sams.html' target='_blank'>Apply here</a></h2>",
+    "summary": "<p>The Carnegie Mellon University’s Summer Academy for Math and Science (SAMS) allows high school students the opportunity to engage in STEM-related fields such as mathematics, biology, computer programming, and physics as well as professional and academic development workshops, academic seminars, and the creation and development of various projects. </p>",
+    "eligibility": [
+        "<li>Be at least 16 years of age by the starting program date</li>",
+        "<li>Be a U.S. Citizen or permanent resident</li>",
+        "<li>Be a sophomore or junior in high school</li>"
+    ],
+    "components": [
+        "<li>Math placement exam</li>",
+        "<li>Online application</li>",
+        "<li>Standardized test scores</li>",
+        "<li>One counselor recommendation and one teacher recommendation written by a teacher in the STEM field</li>",
+        "<li>Two essays</li>"
+    ],
+    "deadlines": [
+        "<p>Application Deadline(s): Applications open in November for 2021 session</p>"
+    ]
+  },
+
+  {
+    "name": "<h2>Otis College of Art and Design Summer of Art - <a href='https://www.otis.edu/summer-art-online' target='_blank'>Apply here</a></h2>",
+    "summary": "<p>The Otis College of Art and Design Summer of Art program is a four week intensive course for high school students wanting to enhance their art skills and prepare themselves for studying at a top art and design college. This program does not require an art portfolio. </p>",
+    "eligibility": [
+        "<li>Must be at least 15 years of age to apply</li>",
+        "<li>Any high school students are able to apply</li>"
+    ],
+    "components": [
+        "<li>Legal Guardian Signature required</li>",
+        "<li>50% Tuition Deposit</li>",
+        "<li>Online Application</li>"
+    ],
+    "deadlines": [
+        "<p>Application Deadline(s): 2020 Session Closed; 2021 registrations open early November</p>"
+    ]
   }
 ]
