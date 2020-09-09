@@ -24,6 +24,7 @@
       "<li>Must be a high school student</li>"
     ],
     "components": [
+      "<li>General information</li>",
       "<li>List of activities</li>",
       "<li>Transcripts</li>",
       "<li>Video Introduction</li>"
@@ -46,7 +47,7 @@
       "<li>Short answer questions</li>"
     ],
     "deadlines": [
-      "<li>TBA, opens in the fall</li>"
+      "<li>TBA (opens in the fall)</li>"
     ]
 
   },
@@ -60,10 +61,10 @@
       "<li>Depict and upload a work in your own medium showing an issue that interests you</li>",
       "<li>Upload an art piece that represents who you are</li>",
       "<li>Upload a tertiary piece of artwork that demonstrates your skill in any of your preferred media</li>",
-      "<li>Send an application and all teacher recommendations</li>"
+      "<li>Send an application and teacher recommendations</li>"
     ],
     "deadlines": [
-      "<li>NOTE: 2020 CSSSA has been cancelled due to COVID-19</li>",
+      "<li>2020 CSSSA has been cancelled due to COVID-19</li>",
       "<li>2021 Application TBA, estimated deadline in mid-Feb.</li>"
     ]
   },
@@ -95,7 +96,7 @@
     "name": "<h2>UCLA Film and Summer Institute Track 8: Pre-College Writing for TV- Big Ideas for the Small Screen - <a href='http://www.tft.ucla.edu/programs/summer-programs/ucla-film-and-television-summer-institute/track-8-writing-for-tv/' target='_blank'>Apply Here</a></h2>",
     "summary": "<p>The UCLA Film and Summer Institute welcomes high students with a love of storytelling to enroll into a summer session where they will learn how to write scripts for television by writing pilot episode outlines, episode teasers, and series treatments with small workshops. Guest lecture workshops and a pitching panel is also included within this summer session. </p>",
     "eligibility": [
-      "<li>High school students from 9-12th grade</li>",
+      "<li>High school students from 9th-12th grades</li>",
       "<li>Must be 14 years of age as of June 22, 2020</li>",
       "<li>Applicants and Parent Approval</li>"
     ],
@@ -135,16 +136,16 @@
     "name": "<h2>Otis College of Art and Design Summer of Art - <a href='https://www.otis.edu/summer-art-online' target='_blank'>Apply Here</a></h2>",
     "summary": "<p>The Otis College of Art and Design Summer of Art program is a four week intensive course for high school students wanting to enhance their art skills and prepare themselves for studying at a top art and design college. This program does not require an art portfolio. </p>",
     "eligibility": [
-        "<li>Must be at least 15 years of age to apply</li>",
-        "<li>Any high school students are able to apply</li>"
+      "<li>Must be at least 15 years of age to apply</li>",
+      "<li>Any high school students are able to apply</li>"
     ],
     "components": [
-        "<li>Legal Guardian Signature required</li>",
-        "<li>50% Tuition Deposit</li>",
-        "<li>Online Application</li>"
+      "<li>Legal Guardian Signature required</li>",
+      "<li>50% Tuition Deposit</li>",
+      "<li>Online Application</li>"
     ],
     "deadlines": [
-        "<p>Application Deadline(s): 2020 Session Closed; 2021 registrations open early November</p>"
+      "<p>Application Deadline(s): 2020 Session Closed; 2021 registrations open early November</p>"
     ]
   }
 ]

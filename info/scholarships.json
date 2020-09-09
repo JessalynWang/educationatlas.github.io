@@ -32,7 +32,7 @@
       "<li>Pell-eligible</li>",
       "<li>Must be a U.S. citizen, national, or permanent resident</li>",
       "<li>In good academic standing (minimum cumulative weighted 3.3 gpa on 4.0 scale, or equivalent)</li>",
-      "<li>Must plan to enroll full-time in a four year degree program, in a US accredited, not-for-profit, private or public college or university</li>"
+      "<li>Must plan to enroll full-time in a four year degree program, in a U.S. accredited, not-for-profit, private or public college or university</li>"
     ],
     "components": [
       "<li>Currently Unknown</li>"
@@ -72,9 +72,9 @@
     ],
     "components": [
       "<li>Short answer questions</li>",
-      "<li>Letter of Recommendation, preferrably by a Computer Science teacher or instructor</li>",
+      "<li>Letter of recommendation, preferrably by a Computer Science teacher or instructor</li>",
       "<li>Official High School transcript</li>",
-      "<li>Other Information TBA</li>"
+      "<li>Other aspects TBA</li>"
     ],
     "deadlines": [
       "<li>Applications open in November</li>"
@@ -89,7 +89,7 @@
       "<li>3.3 GPA or higher</li>"
     ],
     "components": [
-      "<li>Unofficial Transcripts for Application, and if award is received, Official Transcripts will be asked (Transcripts of the latest academic institution the recipient has attended)</li>",
+      "<li>Unofficial transcripts from the latest academic institution the recipient has attended for application, and if award is received, official transcripts will be required</li>",
       "<li>One letter of recommendation</li>",
       "<li>Short essay component</li>"
     ],
@@ -104,7 +104,7 @@
     "eligibility": [
       "<li>Be a high school student</li>",
       "<li>Have not received a prior UCLA Summer Session scholarship</li>",
-      "<li>Family annual income is $100,000 or under</li>",
+      "<li>Family annual income is equal to or under $100,000</li>",
       "<li>Be a high school student currently enrolled in a UCLA Film and Summer Institute </li>"
     ],
     "components": [
