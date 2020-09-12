@@ -148,7 +148,7 @@ function submitToAPI(e) {
 
 function submitToFlask(x) {
     x.preventDefault();
-    var URL = "ec2-13-56-139-44.us-west-1.compute.amazonaws.com:5000/processjson";
+    var URL = "https://ec2-13-56-139-44.us-west-1.compute.amazonaws.com:5000/processjson";
 
     if ($("#email-input").val() == "") {
         alert("Please enter your email address");
@@ -186,7 +186,7 @@ function submitToFlask(x) {
 
     $.ajax({
         type: "POST",
-        url: "ec2-13-56-139-44.us-west-1.compute.amazonaws.com:5000/processjson",
+        url: "https://ec2-13-56-139-44.us-west-1.compute.amazonaws.com:5000/processjson",
         dataType: "json",
         crossDomain: "true",
         contentType: "application/json; charset=utf-8",
