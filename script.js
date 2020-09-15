@@ -195,8 +195,8 @@ function submitToFlask(x) {
 
         success: function() {
             // clear form and show a success message
-            alert("Successfull! Thank you for signing up for our newsletter!");
-            document.getElementById("newsletter-form").reset();
+            alert("Successfull! Thank you for signing up for our service!");
+            document.getElementById("mentorform").reset();
             location.reload();
         },
         error: function() {
