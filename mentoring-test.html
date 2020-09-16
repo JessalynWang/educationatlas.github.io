@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Education Atlas</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+    <link rel="icon" type="image/png" href="images/EAFtab.png">
+</head>
+
+<body>
+    <nav class="header navbar navbar-expand-sm">
+        <span>
+            <a href="index.html" class="navbar-brand">
+                <img src="images/newlogo2.png" class="navlogo" />
+            </a>
+        </span>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" style="color: white" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon">
+                <i class="fas fa-bars"></i>
+            </span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav">
+                <li class="nav-item active">
+                    <a class="nav-link" href="index.html">Home</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="about.html">About</a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Resources
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="resources.html">Overview</a>
+                        <a class="dropdown-item" href="mentoring.html">Mentoring</a>
+                        <a class="dropdown-item" href="internships.html?name=internships">Internships</a>
+                        <a class="dropdown-item" href="scholarships.html?name=scholarships">Scholarships</a>
+                        <a class="dropdown-item" href="programs.html?name=programs">Programs</a>
+                    </div>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="contact.html">Contact</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <div class="container-fluid" style="padding-top: 54px;">
+        <div class="row justify-content-center">
+            <div class="col-lg-6 mentbg mentcon">
+                <div class="pitch" style="background-color: white; padding: 30px; border-radius: 5px; height: 100%">
+                    <h1 style="text-align: center; letter-spacing: 2px; font-weight: bold">Mentoring</h1>
+                    <hr class="gold" />
+                    <p>
+                        With a team of hardworking college students, we at the Education Atlas Foundation aim to provide free, high-quality mentoring to all high school and college transfer students.
+                        From reviewing resumes to critiquing essays to giving insight on how to approach life after high school, we provide any student who seeks our services with
+                        advice tailored to their situation.
+                    </p>
+                    <h5 style="text-align: center; color:darkgoldenrod; letter-spacing: 2px; font-weight: bold">The subject areas we cover:</h5>
+                    <hr style="height: 1px; background-color: #808080" />
+                    <ul style="list-style-type: none; padding: 0px 20px; margin-left: 20px; text-align: center" class="mentlist">
+                        <li>Identifying best fit colleges</li>
+                        <li>Tackling financial aid issues</li>
+                        <li>Designing 4-year course/extracurricular plans</li>
+                        <li>Helping through the college application process</li>
+                        <li>Essay review</li>
+                        <li>Standardized testing help</li>
+                        <li>Profile/portfolio/resume review</li>
+                        <li>Finding extracurriculars</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-6" style="padding: 50px 60px;">
+                <div class="pitch" style="background-color: white; padding: 30px; border-radius: 5px;">
+                    <div class="row">
+                        <div class="col-sm-12 d-flex justify-content-center">
+                            <h3 style="text-align: center; letter-spacing: 2px; font-weight: bold" class="revealbtn">Sign Up</h3>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-12 d-flex justify-content-center">
+                            <form method="post" class="msignup" id="mentorform">
+                                <label><b>First Name:</b> (required)</label>
+                                <input type="text" name="first_name" id="fn" placeholder="ex. John" /><br />
+                                <label><b>Last Name:</b> (required)</label>
+                                <input type="text" name="last_name" id="ln" placeholder="ex. Doe" /><br />
+                                <label><b>E-mail:</b> (required)</label>
+                                <input type="text" name="email" id="email-input" placeholder="example@gmail.com" /><br />
+                                <label><b>Preferred Mentor:</b> </label>
+                                <input type="text" name="pref_tutor" id="pt" placeholder="ex. Jane Doe" /><br />
+                                <label><b>Type of mentoring:</b> </label>
+                                <textarea type="text" name="tutoring" id="typeofm" rows="8" cols="26" placeholder="ex. essay review, resume review, college apps, course plan, finding extracurriculars"></textarea><br /><br />
+                                <input type="submit" onclick="submitToFlask(event)" value="Sign up!" class="msubbtn" />
+                            </form>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container" style="margin: 30px">
+        <div style="display: flex">
+            <div style="flex: 1; font-size: 12px">
+
+                <a href="terms.html">Terms and Conditions/Privacy Policy</a>
+                <p>&#169; Education Atlas Foundation</p>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>
+
+<style>
+    .mentcon {
+        padding: 65px 100px; 
+        min-height: 100vh;
+    }
+
+    @media only screen and (max-width: 590px) {
+        .mentcon {
+            padding: 40px 2%;
+        }
+    }
+
+    @media only screen and (min-width: 1440px) {
+        .mentcon {
+            padding: 65px 10%;
+        }
+    }
+
+</style>
