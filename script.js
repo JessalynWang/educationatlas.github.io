@@ -59,7 +59,10 @@ function classMatch(name) {
         "<h2>Amazon Future Engineer Program - <a href='https://learnmore.scholarsapply.org/amazonfutureengineer/' target='_blank'>Apply Here</a></h2>": "tech",
         "<h2>ISC<sup>2</sup> Undergraduate Cybersecurity Scholarship - <a href='https://www.iamcybersafe.org/s/undergraduate-scholarships' target='_blank'>Apply Here</a></h2>": "tech",
         "<h2>UCLA The Nicholas Endowment TFT Summer Institute Scholarship - <a href='http://www.tft.ucla.edu/summer-institute/nicholas-endowment-ftvdm/' target='_blank'>Apply Here</a></h2>": "film",
-        "<h2>BMI Foundation Student Composer Award - <a href='https://bmifoundation.org/programs/info/bmi_student_composer_awards#:~:text=Student%20Composer%20Awards-,for%20classical%20composers,prominent%20and%20talented%20young%20composers.' target='_blank'>Apply Here</a></h2>":"digitalmedia music"
+        "<h2>BMI Foundation Student Composer Award - <a href='https://bmifoundation.org/programs/info/bmi_student_composer_awards#:~:text=Student%20Composer%20Awards-,for%20classical%20composers,prominent%20and%20talented%20young%20composers.' target='_blank'>Apply Here</a></h2>": "digitalmedia music",
+        "<h2>Geosciences Bridge Program - <a href='https://www.umes.edu/cscgeosciences/' target='_blank'>Apply Here</a></h2>": "geosci",
+        "<h2>Hach & Rose, LLP Annual College Scholarship - <a href='https://www.unionlawfirm.com/hach-rose-llp-annual-college-scholarship/' target='_blank'>Apply Here</a></h2>": "misc",
+        "<h2>Summer Math and Science Honors Academy - <a href='https://www.otis.edu/summer-art-online' target='_blank'>Apply Here</a></h2>": "gen"
 
     }
 

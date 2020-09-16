@@ -150,7 +150,7 @@
         "<li>TBA</li>"
     ],
     "deadlines": [
-        "<p>Application Deadline(s): 2020-2021 application form closed; 2021-2022 application TBA</p>"
+        "<p>2020-2021 application form closed; 2021-2022 application TBA</p>"
     ]
   },
 
@@ -158,16 +158,35 @@
     "name": "<h2>Exploratorium High School Explainers - <a href='https://explainers.exploratorium.edu/highschool/program' target='_blank'>Apply Here</a></h2>",
     "summary": "<p>Exploratorium High School Explainers work to create an engaging experience for the visitors at the Exploratorium museum. This is a paid position and chosen high school students are expected to complete the training period before officially working. The training sessions will cover lessons from museum staff, science educators, and exhibit creators. </p>",
     "eligibility": [
-        "<li>Applicants must be between 15 and 18 years of age</li>",
-        "<li>Applicants must be able to attend all mandatory trainings</li>",
-        "<li>Must have good team skills such as communication, compatibility, and reliability</li>",
-        "<li>Multilingual applicants are of interest</li>"
+      "<li>Applicants must be between 15 and 18 years of age</li>",
+      "<li>Applicants must be able to attend all mandatory trainings</li>",
+      "<li>Must have good team skills such as communication, compatibility, and reliability</li>",
+      "<li>Multilingual applicants are of interest</li>"
     ],
     "components": [
-        "<li>TBA</li>"
+      "<li>TBA</li>"
     ],
     "deadlines": [
-        "<p>Application Deadline(s): Postponed until 2021; Application period for 2021 session expected to be in late Winter 2021</p>"
+      "<p>Postponed until 2021; Application period for 2021 session expected to be in late Winter 2021</p>"
+    ]
+  },
+
+  {
+    "name": "<h2>Geosciences Bridge Program - <a href='https://www.umes.edu/cscgeosciences/' target='_blank'>Apply Here</a></h2>",
+    "summary": "<p>The Geosciences Bridge Program is a 6-week paid internship for students planning to pursue careers in the geosciences. At the program students participate in lectures, field, trips, hands-on activities, two for-credit college courses, and a stipend. Students will be housed, fed, and provided with transportation to and from the University of Maryland Eastern Shore.</p>",
+    "eligibility": [
+      "<li>Graduating high school senior</li>",
+      "<li>Have been accepted into an accredited US college/university</li>",
+      "<li>Have a minimum 2.7 GPA</li>",
+      "<li>Plan to pursue a bachelor's in a geoscience discipline (ex. atmospherric science, engineering, geography)</li>"
+    ],
+    "components": [
+      "<li>Two letters of recommendation, from a school counselor and a teacher</li>",
+      "<li>The name of and proof of acceptance from a college/university</li>",
+      "<li>Three essay prompts</li>"
+    ],
+    "deadlines": [
+      "<p>TBA (Will be around April, 2021)</p>"
     ]
   }
 
