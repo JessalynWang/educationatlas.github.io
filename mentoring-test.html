@@ -88,7 +88,7 @@
                     </div>
                     <div class="row">
                         <div class="col-sm-12 d-flex justify-content-center">
-                            <form method="post" class="msignup" id="mentorform">
+                            <form method="post" class="msignup" id="mentorform" action="ec2-13-56-139-44.us-west-1.compute.amazonaws.com:5000/processjson">
                                 <label><b>First Name:</b> (required)</label>
                                 <input type="text" name="first_name" id="fn" placeholder="ex. John" /><br />
                                 <label><b>Last Name:</b> (required)</label>
@@ -101,7 +101,7 @@
                                 <textarea type="text" name="tutoring" id="typeofm" rows="8" cols="26" placeholder="ex. essay review, resume review, college apps, course plan, finding extracurriculars"></textarea><br /><br />
                                 <input type="submit" onclick="submitToFlask(event)" value="Sign up!" class="msubbtn" />
                             </form>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -124,7 +124,7 @@
 
 <style>
     .mentcon {
-        padding: 65px 100px; 
+        padding: 65px 100px;
         min-height: 100vh;
     }
 
