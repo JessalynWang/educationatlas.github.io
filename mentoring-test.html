@@ -88,18 +88,13 @@
                     </div>
                     <div class="row">
                         <div class="col-sm-12 d-flex justify-content-center">
-                            <form method="post" class="msignup" id="mentorform" action="ec2-13-56-139-44.us-west-1.compute.amazonaws.com:5000/processjson">
-                                <label><b>First Name:</b> (required)</label>
-                                <input type="text" name="first_name" id="fn" placeholder="ex. John" /><br />
-                                <label><b>Last Name:</b> (required)</label>
-                                <input type="text" name="last_name" id="ln" placeholder="ex. Doe" /><br />
-                                <label><b>E-mail:</b> (required)</label>
-                                <input type="text" name="email" id="email-input" placeholder="example@gmail.com" /><br />
-                                <label><b>Preferred Mentor:</b> </label>
-                                <input type="text" name="pref_tutor" id="pt" placeholder="ex. Jane Doe" /><br />
-                                <label><b>Type of mentoring:</b> </label>
-                                <textarea type="text" name="tutoring" id="typeofm" rows="8" cols="26" placeholder="ex. essay review, resume review, college apps, course plan, finding extracurriculars"></textarea><br /><br />
-                                <input type="submit" onclick="submitToFlask(event)" value="Sign up!" class="msubbtn" />
+                            <form method="post" action="ec2-13-56-139-44.us-west-1.compute.amazonaws.com:5000/processjson">
+                                <input type="text" name="first_name" />
+                                <input type="text" name="last_name"/>
+                                <input type="text" name="email"/>
+                                <input type="text" name="pref_tutor" />
+                                <input type="text" name="tutoring"/>
+                                <input type="submit" value="Submit" />
                             </form>
 
                         </div>
