@@ -153,32 +153,32 @@ function submitToFlask(x) {
     x.preventDefault();
     var URL = "https://ec2-13-56-139-44.us-west-1.compute.amazonaws.com:5000/processjson";
 
-    if ($("#email-input").val() == "") {
+    if ($("#email").val() == "") {
         alert("Please enter your email address");
         return;
     }
 
     var reeamil = /^([\w-\.]+@([\w-]+\.)+[\w-]{2,6})?$/;
-    if (!reeamil.test($("#email-input").val())) {
+    if (!reeamil.test($("#email").val())) {
         alert("Please enter valid email address");
         return;
     }
 
-    if ($("#fn").val() == "") {
+    if ($("#first_name").val() == "") {
         alert("Please enter your first name");
         return;
     }
 
-    if ($("#ln").val() == "") {
+    if ($("#last_name").val() == "") {
         alert("Please enter your last name");
         return;
     }
 
-    var email = $("#email-input").val();
-    var first = $("#fn").val();
-    var last = $("#ln").val();
-    var pref = $("#pt").val();
-    var type = $("#typeofm").val();
+    var email = $("#email").val();
+    var first = $("#first_name").val();
+    var last = $("#last_name").val();
+    var pref = $("#pref_tutor").val();
+    var type = $("#tutoring").val();
     var data = {
         email: email,
         first_name: first,
