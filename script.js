@@ -180,9 +180,9 @@ function submitToFlask(x) {
     var pref = $("#pref_tutor").val();
     var type = $("#tutoring").val();
     var data = {
-        email: email,
         first_name: first,
         last_name: last,
+        email: email,
         pref_tutor: pref,
         tutoring: type
     };
