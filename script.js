@@ -186,7 +186,7 @@ function submitToFlask(x) {
         pref_tutor: pref,
         tutoring: type
     };
-    console.log(data)
+    console.log('data')
 
     $.ajax({
         type: "POST",
