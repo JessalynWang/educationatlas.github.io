@@ -151,7 +151,7 @@ function submitToAPI(e) {
 
 function submitToFlask(x) {
     x.preventDefault();
-    var URL = "https://ec2-13-56-139-44.us-west-1.compute.amazonaws.com:5000/processjson";
+    var URL = "http://ec2-13-56-139-44.us-west-1.compute.amazonaws.com:5000/processjson";
 
     if ($("#email").val() == "") {
         alert("Please enter your email address");
