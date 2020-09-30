@@ -190,7 +190,7 @@ function submitToFlask(x) {
 
     $.ajax({
         type: "POST",
-        url: "https://ec2-13-56-139-44.us-west-1.compute.amazonaws.com:5000/processjson",
+        url: "http://ec2-13-56-139-44.us-west-1.compute.amazonaws.com:5000/processjson",
         dataType: "json",
         crossDomain: "true",
         contentType: "application/json; charset=utf-8",
